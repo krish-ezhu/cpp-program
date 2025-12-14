@@ -1,3 +1,4 @@
+//Write a C++ Program to print the cube of a number.
 #include <iostream>
 using namespace std;
 int main()
@@ -12,4 +13,5 @@ int main()
     avg=(num1+num2+num3)/3;
     cout<<" Square of given Number  : "<<avg;
     return 0;
+
 }
