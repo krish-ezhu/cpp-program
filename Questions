@@ -28,4 +28,16 @@ Q22.Write a C++ Program to calculate the average of three numbers.
 Q23.Write a C++ Program to print the middle digit of a 3-digit number.
 Q24.Write a C++ Program to swap two numbers without using a third variable.
 
-Day-3 (15/12/2025 ; Monday) : `
+Day-3 (15/12/2025 ; Monday) : 
+
+Q25.Write a C++ Program to check whether the first digit of a 3-digit number is odd or even.
+Q26.Write a C++ Program to check whether the last digit of a number is odd or even.
+Q27.Write a C++ Program to check whether two numbers have the same last digit.
+Q28.Write a C++ Program to check whether a triangle is equilateral, isosceles, or scalene.
+Q29.Write a C++ Program to check whether a triangle is right-angled or not.
+Q30.Write a C++ Program to check in which quadrant a point (x, y) lies.
+Q31.Write a C++ Program to check whether the sum of three angles forms a valid triangle.
+Q32.Write a C++ Program to check whether three sides form a valid triangle.
+Q33.Write a C++ Program to check whether four sides form a square or rectangle.
+Q34.Write a C++ Program to check whether a given year is a century year or not.
+Q35.Write a C++ Program using switch case to print the season based on month number.(1-5:Summer,6-10:Wind,11-12:Rain)
