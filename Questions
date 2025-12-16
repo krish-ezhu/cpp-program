@@ -40,4 +40,17 @@ Q31.Write a C++ Program to check whether the sum of three angles forms a valid t
 Q32.Write a C++ Program to check whether three sides form a valid triangle.
 Q33.Write a C++ Program to check whether four sides form a square or rectangle.
 Q34.Write a C++ Program to check whether a given year is a century year or not.
-Q35.Write a C++ Program using switch case to print the season based on month number.(1-5:Summer,6-10:Wind,11-12:Rain)
+Q35.Write a C++ Program using switch case to print the season based on month number.(1-5:Summer,6-10:Wind,11-12:Rain).
+
+Day-4 (16/12/2025 ; Tuesday) :
+
+Q36. Write a C++  program to check whether a number is palindrome or not.
+Q37. Write a C++  program to check whether a number is Armstrong number or not.
+Q38. Write a C++  program to find the LCM of two numbers.
+Q39.Write a C++  program to check whether a given number is prime or not.
+Q40. Write a C++  program to print all factors of a given number.
+Q41. Write a C++  program to find the sum of all factors of a given number.
+Q42. Write a C++ program to check whether a given integer is a perfect square or not.
+Q43. Write a C++ program to check whether a given number is a Strong Number or not.
+Q44. Write a C++ program to check whether a given number is a Perfect Number or not.
+Q45. Write a C++ program to check whether a given number is a Neon Number or not.
